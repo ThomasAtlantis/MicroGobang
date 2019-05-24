@@ -1,0 +1,18 @@
+{
+	"gameName": {"y": 100, "center": true, "fg": "0x3B43E4"},
+	"author_1": {"y": 130, "center": true},
+	"author_2": {"y": 160, "center": true},
+	"author_3": {"y": 190, "center": true},
+	"author_w": {"y": 210, "center": true},
+	"ins_1": 	{"y":  30, "center": true, "fg": "0x0000FF"},
+	"ins_2": 	{"y":  60, "center": true},
+	"ins_3": 	{"y":  90, "center": true},
+	"ins_4": 	{"y": 120, "center": true},
+	"ins_5": 	{"y": 150, "center": true},
+	"ins_6": 	{"y": 180, "center": true, "fg": "0x0000FF"},
+	"ins_7": 	{"y": 210, "center": true},
+	"ins_8": 	{"y": 240, "center": true},
+	"ins_9": 	{"y": 270, "center": true},
+	"inputTip": {"y":   5, "center": true},
+	"gameOver": {"y": 144, "center": true}
+}
